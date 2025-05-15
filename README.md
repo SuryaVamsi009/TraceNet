@@ -1,6 +1,7 @@
 # TraceNet: Tracking Missing Person using Facial Feature Extraction and Machine Learning
 
 Surya Vamsi¹, Hemanth Kumar V², Srishti Chetan³, Harika Nadimpalli⁴, Shilpa V⁵
+
 ¹²³⁴ Students, School of Computer Science and Engineering, REVA University, India
 ⁵Professor, School of Computer Science and Engineering, REVA University, India
 
